@@ -5,3 +5,6 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.vscode
+.history
+node_modules
